@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fun activities and classes for kids ages between 3 and 16
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 production_url : http://anandsatyan.github.io/blog
-BASE_PATH : http://joinklub.com/blog
+BASE_PATH : https://joinklub.com/blog
 twitter_username: joinklubcom
 github_username:  anandsatyan
 
