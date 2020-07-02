@@ -27,6 +27,7 @@ production_url : http://anandsatyan.github.io/blog
 BASE_PATH : https://joinklub.com/blog
 twitter_username: joinklubcom
 github_username:  anandsatyan
+port: 5000
 
 # Build settings
 theme: minima
